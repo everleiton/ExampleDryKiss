@@ -1,0 +1,12 @@
+c:\users\katalina\documents\visual studio 2015\Projects\appKiss\appKiss\bin\Debug\appKiss.exe.config
+c:\users\katalina\documents\visual studio 2015\Projects\appKiss\appKiss\obj\Debug\appKiss.csprojResolveAssemblyReference.cache
+c:\users\katalina\documents\visual studio 2015\Projects\appKiss\appKiss\bin\Debug\appKiss.exe
+c:\users\katalina\documents\visual studio 2015\Projects\appKiss\appKiss\bin\Debug\appKiss.pdb
+c:\users\katalina\documents\visual studio 2015\Projects\appKiss\appKiss\obj\Debug\appKiss.exe
+c:\users\katalina\documents\visual studio 2015\Projects\appKiss\appKiss\obj\Debug\appKiss.pdb
+C:\Users\Estudiante\Downloads\appKiss\appKiss\appKiss\bin\Debug\appKiss.exe.config
+C:\Users\Estudiante\Downloads\appKiss\appKiss\appKiss\obj\Debug\appKiss.exe
+C:\Users\Estudiante\Downloads\appKiss\appKiss\appKiss\obj\Debug\appKiss.pdb
+C:\Users\Estudiante\Downloads\appKiss\appKiss\appKiss\bin\Debug\appKiss.exe
+C:\Users\Estudiante\Downloads\appKiss\appKiss\appKiss\bin\Debug\appKiss.pdb
+C:\Users\Estudiante\Downloads\appKiss\appKiss\appKiss\obj\Debug\appKiss.csprojResolveAssemblyReference.cache
